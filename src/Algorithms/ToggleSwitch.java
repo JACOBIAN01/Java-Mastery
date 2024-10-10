@@ -1,2 +1,4 @@
-package Algorithms;public class ToggleSwitch {
+package Algorithms;
+
+public class ToggleSwitch {
 }

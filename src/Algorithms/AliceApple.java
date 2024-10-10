@@ -1,2 +1,4 @@
-package Algorithms;public class AliceApple {
+package Algorithms;
+
+public class AliceApple {
 }
